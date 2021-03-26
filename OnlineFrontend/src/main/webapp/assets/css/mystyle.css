@@ -1,0 +1,97 @@
+@charset "ISO-8859-1";
+
+.topnav 
+{
+	opacity: 0.8;
+	overflow: hidden;
+	width: auto;
+    color: white;
+	
+}
+
+.topnav-left 
+{
+	float: left;
+	text-align: center;
+	padding: 12px 12px;
+	text-decoration: none;
+	font-size: 16px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.topnav-right 
+{
+	float: right;
+	text-align: center;
+	padding: 12px 12px;
+	text-decoration: none;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.topnav-left:active 
+{
+	background-color: rgb(50, 56, 93);
+	color: rgb(255, 255, 255);
+}
+
+.topnav-left:hover 
+{
+	background-color: rgb(255, 255, 255);
+	color: rgb(50, 56, 93);
+}
+
+.topnav-right:hover 
+{
+	background-color: rgb(255, 255, 255);
+	color: rgb(50, 56, 93);
+}
+.navbar 
+{
+	opacity: 0.8;
+	overflow: hidden;
+	width: auto;
+    color: white;
+	position: absolute;
+    bottom: 0%;
+}
+
+.bgimg 
+{
+	background: rgb(247, 247, 247);
+	background: linear-gradient(15deg, rgb(50, 56, 93) 0%,rgba(247, 247, 247, 1) 74%);
+	background-repeat: no-repeat;
+	height: auto;
+	width: auto;
+	
+}
+
+.nobg 
+{
+	background: none;
+	border: none;
+	-webkit-appearance: none;
+	color: rgb(255, 255, 255);
+}
+
+.nobg:hover 
+{
+	background-color: rgb(255, 255, 255);
+	color: rgb(50, 56, 93);
+}
+
+
+.navbar-right 
+{
+	float: right;
+	text-align: center;
+	padding: 12px 12px;
+	text-decoration: none;
+	font-size: 16px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar-right:hover 
+{
+	background-color: rgb(255, 255, 255);
+	color: rgb(50, 56, 93);
+}

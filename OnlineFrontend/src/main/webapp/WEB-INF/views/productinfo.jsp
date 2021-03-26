@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title> ${title} </title>
+<title>Insert title here</title>
 </head>
 <body>
-<h3>About Page</h3>
+<h4>Single Product Info</h4>
 
 </body>
 </html>
